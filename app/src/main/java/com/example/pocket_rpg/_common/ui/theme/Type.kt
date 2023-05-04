@@ -1,4 +1,4 @@
-package com.example.pocket_rpg.ui.theme
+package com.example.pocket_rpg._common.ui.theme
 
 import androidx.compose.material.Typography
 import androidx.compose.ui.text.TextStyle

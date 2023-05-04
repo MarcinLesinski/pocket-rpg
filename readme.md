@@ -1,0 +1,7 @@
+
+
+charcters
+    list
+    edit
+
+play
