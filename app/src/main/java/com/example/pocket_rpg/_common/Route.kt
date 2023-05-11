@@ -29,6 +29,7 @@ sealed class Route(protected val baseRoute: String) {
     object CreateGame: Route("create_game_screen")
     object MasterScreen: Route("master_screen")
     object PlayerScreen: Route("player_screen")
+    object SignInScreen: Route("sign_in_screen")
 }
 
 

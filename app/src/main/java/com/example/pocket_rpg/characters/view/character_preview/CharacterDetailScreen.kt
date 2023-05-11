@@ -101,7 +101,7 @@ fun Feats(character: RpgCharacter) {
         crossAxisSpacing = 10.dp,
         modifier = Modifier.fillMaxWidth()
     ) {
-        character.feats.forEach { tag -> CharacterTag(tag = tag.name) }
+        character.feats.forEach { tag -> FeatTag(tag = tag.name) }
     }
 }
 
